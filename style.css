@@ -1,6 +1,9 @@
 body{background-color:black;}
-p,h, li{
-      font-family: "Lucida Console", Courier, monospace;
-      color:white; }
 
+p, li {font-family: "Lucida Console", Courier, monospace;
+       color:white; }
+
+h {font-family: "Lucida Console", Courier, monospace;
+      color:white; }
+      
       
