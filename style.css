@@ -3,7 +3,7 @@ body{background-color:black;}
 p, li {font-family: "Lucida Console", Courier, monospace;
        color:white; }
 
-h1 {font-family: "Lucida Console", Courier, monospace;
+h1, h2 {font-family: "Lucida Console", Courier, monospace;
       color:white; }
       
       
